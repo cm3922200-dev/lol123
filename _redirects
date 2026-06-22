@@ -1,0 +1,7 @@
+# Cloudflare Pages / Netlify — SPA fallback
+/profile/*    /index.html   200
+/skin-maker   /index.html   200
+/capes        /index.html   200
+/cape-viewer  /index.html   200
+/privacy      /index.html   200
+/terms        /index.html   200
